@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.header {
+header {
     width: 100%;
     padding: 20px 0;
     text-align: center;
@@ -24,7 +24,7 @@
 
 .main {
     width: 800px;
-    height: 700px;
+    margin: 50px auto;
     display: flex;
     flex-wrap: wrap;
 }
@@ -32,79 +32,73 @@
 .m1 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #e6ffe9;
 }
 
 .m2 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #cbffd3;
 }
 
 .m3 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #aeffbd;
 }
 
 .m4 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #93ffab;
 }
 
 .m5 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #f3ffd8;
 }
 
 .m6 {
     width: 200;
     height: 200px;
-    background-color: blue;
-}
-
-.m6 {
-    width: 200;
-    height: 200px;
-    background-color: blue;
+    background-color: #edffbe;
 }
 
 .m7 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #e9ffa5;
 }
 
 .m8 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #e4ff8b;
 }
 
 .m9 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #d9e5ff;
 }
 
 .m10 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #bad3ff;
 }
 
 .m11 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #a4c6ff;
 }
 
 .m12 {
     width: 200;
     height: 200px;
-    background-color: blue;
+    background-color: #8eb8ff;
 }
 
 footer {
